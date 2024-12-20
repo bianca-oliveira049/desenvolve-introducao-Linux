@@ -1,2 +1,4 @@
 # desenvolve-introducao-Linux
-Atividades do curso Introdução ao Linux
+Projeto Desenvolve - Itabira 
+Introdução ao Linux
+PDITA049
